@@ -1,0 +1,362 @@
+[
+  {
+    "country": "수단",
+    "capital": "하르툼",
+    "funFact": "고대에 이집트 문화권으로 많은 피라미드와 신전이 남아있음",
+    "continent": "africa",
+    "flag": "images/sudan_flag.jpg",
+    "map": "images/sudan_map.png"
+  },
+  {
+    "country": "이집트",
+    "capital": "카이로",
+    "funFact": "기원전 36세기부터 왕조가 성립되어 10,000년의 역사가 있는 나라",
+    "continent": "africa",
+    "flag": "images/egypt_flag.png",
+    "map": "images/egypt_map.svg"
+  },
+  {
+    "country": "가나",
+    "capital": "아크라",
+    "funFact": "서아프리카의 경제 강국으로, 금, 다이아몬드, 보크사이트 등이 많이 매장되어 있는 자원 강국",
+    "continent": "africa",
+    "flag": "images/ghana_flag.webp",
+    "map": "images/ghana_map.svg"
+  },
+  {
+    "country": "가봉",
+    "capital": "리브르빌",
+    "funFact": "아프리카에서 가장 숲의 비중이 높은 나라로, 국토의 85%가 숲",
+    "continent": "africa",
+    "flag": "images/gabon_flag.png",
+    "map": "images/gabon_map.svg"
+  },
+  {
+    "country": "감비아",
+    "capital": "반줄",
+    "funFact": "국토가 감비아 강으로 인해 남북 두쪽으로 갈라져 있음",
+    "continent": "africa",
+    "flag": "images/gambia_flag.jpg",
+    "map": "images/gambia_map.svg"
+  },
+  {
+    "country": "기니",
+    "capital": "코나크리",
+    "funFact": "알루미늄의 원료가 되는 보크사이트의 주 매장지인 나라",
+    "continent": "africa",
+    "flag": "images/guinea_flag.png",
+    "map": "images/guinea_map.svg"
+  },
+  {
+    "country": "기니비사우",
+    "capital": "비사우",
+    "funFact": "아프리카에서 가장 많은, 90개의 섬을 가진 국가",
+    "continent": "africa",
+    "flag": "images/guinea-bissau_flag.webp",
+    "map": "images/guinea-bissau_map.svg"
+  },
+  {
+    "country": "나미비아",
+    "capital": "빈트후크",
+    "funFact": "국명 뜻이 \"엄청나게 넓고 아무것도 없는 나라\"로, 땅은 한국의 8배이나 인구는 260만명에 불과",
+    "continent": "africa",
+    "flag": "images/namibia_flag.png",
+    "map": "images/namibia_map.svg"
+  },
+  {
+    "country": "나이지리아",
+    "capital": "아부자",
+    "funFact": "세계 6위의 인구 규모로, 2억2천만명이 거주중. 1991년까지는 인구수 2,600만명의 최대도시 라고스가 수도였음",
+    "continent": "africa",
+    "flag": "images/nigeria_flag.webp",
+    "map": "images/nigeria_map.svg"
+  },
+  {
+    "country": "남아프리카공화국",
+    "capital": "프리토리아",
+    "funFact": "세계에서 가장 다양한 인종이 사는 나라로, 이로 인해 아파르트헤이트 등의 아픈 과거를 겪었음",
+    "continent": "africa",
+    "flag": "images/southafrica_flag.webp",
+    "map": "images/southafrica_map.png"
+  },
+  {
+    "country": "니제르",
+    "capital": "니아메",
+    "funFact": "세계에서 교육관련 지수가 두번째로 낮은 나라이지만, 전세계에서 유일하게 출산율이 6명을 넘기는 최대 출산국.",
+    "continent": "africa",
+    "flag": "images/niger_flag.png",
+    "map": "images/niger_map.webp"
+  },
+  {
+    "country": "라이베리아",
+    "capital": "몬로비아",
+    "funFact": "미국에서 해방된 노예들이 아프리카로 역이민해서 세운 나라로, 수도 이름도 해방 당시 미국 대통령 이름을 따서 지음",
+    "continent": "africa",
+    "flag": "images/liberia_flag.png",
+    "map": "images/liberia_map.webp"
+  },
+  {
+    "country": "레소토",
+    "capital": "마세루",
+    "funFact": "남아프리카 공화국 안에 둘러싸인 산에 있는 나라로, 국토의 가장 낮은 곳의 해발고도가 1,400m",
+    "continent": "africa",
+    "flag": "images/lesotho_flag.jpg",
+    "map": "images/lesotho_map.png"
+  },
+  {
+    "country": "르완다",
+    "capital": "키갈리",
+    "funFact": "고릴라 관광과 커피로 유명한 나라",
+    "continent": "africa",
+    "flag": "images/rwanda_flag.jpg",
+    "map": "images/rwanda_map.svg"
+  },
+  {
+    "country": "리비아",
+    "capital": "트리폴리",
+    "funFact": "땅과 기후가 워낙 좋지 않아 75%의 식량을 수입에 의존",
+    "continent": "africa",
+    "flag": "images/libya_flag.jpg",
+    "map": "images/libya_map.png"
+  },
+  {
+    "country": "마다가스카르",
+    "capital": "안타나나리보",
+    "funFact": "인류학적으로 동남아시아에서 건너간 사람들이 건국한 나라로 추정됨",
+    "continent": "africa",
+    "flag": "images/madagascar_flag.webp",
+    "map": "images/madagascar_map.png"
+  },
+  {
+    "country": "말라위",
+    "capital": "릴롱궤",
+    "funFact": "아프리카에서 3번째로 큰 호수인 말라위 호수가 국토의 많은 부분을 차지해, \"호수의 나라\"로도 불림",
+    "continent": "africa",
+    "flag": "images/malawi_flag.svg",
+    "map": "images/malawi_map.svg"
+  },
+  {
+    "country": "말리",
+    "capital": "바마코",
+    "funFact": "세계에서 가장 큰 진흙 건축물인 젠네 모스크가 있는 나라",
+    "continent": "africa",
+    "flag": "images/mali_flag.webp",
+    "map": "images/mali_map.png"
+  },
+  {
+    "country": "모로코",
+    "capital": "리바트",
+    "funFact": "유럽, 아시아와 가까워 고대 로마나 이슬람 유적이 남아있고 지중해도 있어 관광으로 유명",
+    "continent": "africa",
+    "flag": "images/morroco_flag.svg",
+    "map": "images/morocco_map.png"
+  },
+  {
+    "country": "모리셔스",
+    "capital": "포트루이스",
+    "funFact": "아프리카에서 유일한, 힌두교도가 국민 과반수인 나라",
+    "continent": "africa",
+    "flag": "images/mauritius_flag.svg",
+    "map": "images/maritius_map.svg"
+  },
+  {
+    "country": "대한민국",
+    "capital": "서울",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "네팔",
+    "capital": "카트만두",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "동티모르",
+    "capital": "딜리",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "라오스",
+    "capital": "비엔티안",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "레바논",
+    "capital": "베이루트",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "말레이시아",
+    "capital": "쿠알라룸푸르",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "몰디브",
+    "capital": "말레",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "몽골",
+    "capital": "울란바토르",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "미얀마",
+    "capital": "네피도",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "바레인",
+    "capital": "마나마",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "방글라데시",
+    "capital": "다카",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "베트남",
+    "capital": "하노이",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "부탄",
+    "capital": "팀푸",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "브루나이",
+    "capital": "반다르스리브가완",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "사우디아라비아",
+    "capital": "리야드",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "스리랑카",
+    "capital": "스리자야와르데네푸라코테",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "시리아",
+    "capital": "다마스쿠스",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "싱가포르",
+    "capital": "싱가포르",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "아랍에미리트",
+    "capital": "아부다비",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "아르메니아",
+    "capital": "예레반",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "아제르바이잔",
+    "capital": "바쿠",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "아프가니스탄",
+    "capital": "카불",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "예멘",
+    "capital": "사나",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "오만",
+    "capital": "무스카트",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  },
+  {
+    "country": "요르단",
+    "capital": "암만",
+    "funFact": "",
+    "continent": "asia",
+    "flag": "",
+    "map": ""
+  }
+]

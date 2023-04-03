@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>패션지식 | 수도Quiz</title>
+  </head>
+  <body>
+    <header>수도 이름 맞히기 ㅇㅅㅇ</header>
+    <div class="container">
+      <main class="mainintro">
+        <div class="rule">
+          <ul class="rule-ul">
+            <li class="rule-list">
+              <strong>문제 수</strong>
+              <div class="selectcheckbox">
+                <input type="radio" name="numberofquestions" id="ten" />
+                <input type="radio" name="numberofquestions" id="fifteen" />
+                <input
+                  type="radio"
+                  name="numberofquestions"
+                  id="twenty"
+                  checked
+                />
+                <label for="ten" class="sungyupstomach">10</label>
+                <label for="fifteen" class="sungyupstomach">15</label>
+                <label for="twenty" class="sungyupstomach">20</label>
+              </div>
+            </li>
+
+            <li class="rule-list">
+              <strong>출제 범위</strong>
+              <div class="selectcheckbox">
+                <input type="radio" name="continents" id="asia" />
+                <input type="radio" name="continents" id="africa" checked />
+                <input type="radio" name="continents" id="europe" />
+                <input type="radio" name="continents" id="america" />
+                <label for="asia" class="sungyupstomach">아시아</label>
+                <label for="africa" class="sungyupstomach">아프리카</label>
+                <label for="europe" class="sungyupstomach">유럽</label>
+                <label for="america" class="sungyupstomach">아메리카</label>
+              </div>
+            </li>
+            <li class="rule-list">
+              <button class="btn booboo"><strong>뿌뿌 모드</strong></button>
+              <label class="toggler-wrapper style-4">
+                <input type="checkbox" id="checkbox" />
+                <div class="toggler-slider">
+                  <div class="toggler-knob"></div>
+                </div>
+              </label>
+            </li>
+          </ul>
+        </div>
+      </main>
+      <div class="modal hidden">
+        <button class="close-modal">&times;</button>
+        <h2>뿌뿌 모드란 ㅇㅅㅇ?!</h2>
+        <br />
+        <p>젠틀하기로 유명한 <strong>블루</strong>가</p>
+        <p>응원해주는 모드에요!</p>
+        <img src="images/blue_cool.png" <br />
+        <p>틀린 답을 선택하면 <strong>격려</strong>를,</p>
+        <p>정답을 선택하면 <strong>기뻐</strong>해주는 블루와 함께</p>
+        <p>보다 많은 답을 맞춰보세용 ㅇㅅㅇㅎㅎ</p>
+      </div>
+      <div class="overlay hidden"></div>
+    </div>
+    <script src="scriptmain.js"></script>
+  </body>
+  <a class="btn btn-start" href="quizcontent.html"> Start </a>
+
+  <footer>&copy;이웃집스누피 2023.3월 ver 0.1</footer>
+</html>

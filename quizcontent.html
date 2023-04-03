@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>패션지식 | 수도Quiz</title>
+  </head>
+  <body>
+    <nav>
+      <p>
+        문제: <strong class="questionnumber">4</strong> /
+        <span class="totalquestionnumber">20</span>
+      </p>
+      <p>점수: <strong class="score">43</strong> / 100</p>
+      <div class="runningtime">
+        <p>
+          제한시간: <strong><span class="timer">5:00</span></strong>
+        </p>
+      </div>
+    </nav>
+    <main class="mainquiz">
+      <section class="left">
+        <div class="country country-main">수단</div>
+        <div class="funfact">수단 funfact</div>
+      </section>
+
+      <section class="middle">
+        <img class="flag" src="images/sudan_flag.jpg" alt="수단국기" />
+        <img class="map" src="images/sudan_map.png" alt="수단지도" />
+      </section>
+      <section class="right">
+        <p class="question">
+          <strong>Q. <strong class="country">수단</strong>의 수도는?</strong>
+        </p>
+        <div class="selection">
+          <button class="btn btn-selection btn1">하르툼</button>
+          <button class="btn btn-selection btn2">서울</button>
+          <button class="btn btn-selection btn3">나이로비</button>
+          <button class="btn btn-selection btn4">카이로</button>
+        </div>
+      </section>
+    </main>
+    <div class="modal hidden ending">
+      <h2 class="endingment">고생했다용 ㅇㅅㅇ</h2>
+      <p class="endingmentdetail">총 점수는 46점이다용</p>
+      <div class="review">
+        <img src="images/blue_cool.png" class="endingimage" />
+        <div class="wrong">
+          <h4 class="wrongtitle">틀린 문제와 답</h4>
+          <ul class="wrongquestions"></ul>
+        </div>
+      </div>
+      <a class="btn tomain" href="index.html">메인메뉴로</a>
+    </div>
+    <div class="overlay hidden"></div>
+    <script src="script.js"></script>
+  </body>
+  <footer>&copy;이웃집스누피 2023.3월</footer>
+</html>
